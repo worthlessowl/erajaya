@@ -138,3 +138,4 @@ If possible I want to implement data validation so that the user can know which 
 - Docker is a bit unstable. Running the app sometimes fail. I don't have time to debug the issue, so currently the experience of running this application
 is not as smooth as i expected it to be
 - Implement handlers that differentiates http methods. I want to be able to distinguish request by its http method (GET, POST, etc.)
+- The docker should've seeded the database (Dockerfile in the `db` directory) but somehow it doesn't. I haven't found the cause.
