@@ -1,0 +1,1 @@
+INSERT INTO product(name, price, description, quantity, create_at) VALUES ('dummy product', 1000, 'a dummy product', 20, '2020-06-22 19:10:25'), ('another product', 50000, 'an expensive product', 500, '2021-01-01 20:20:20'), ('empty stock product', 2500, 'product out of stock', 0, '2022-01-01 01:01:01');
